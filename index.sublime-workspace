@@ -1,0 +1,189 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jefflundgren/2048_game_clone/index.html",
+		"/Applications/MAMP/htdocs/inc/products.php",
+		"/Applications/MAMP/htdocs/shirts.php",
+		"/Applications/MAMP/htdocs/arrays.php",
+		"/Applications/MAMP/htdocs/contact-thanks.php",
+		"/Applications/MAMP/htdocs/contact-process.php",
+		"/Applications/MAMP/htdocs/index.html",
+		"/Users/jefflundgren/Downloads/shirts4mike/index.html",
+		"/Applications/MAMP/htdocs/test.php",
+		"/Users/jefflundgren/Downloads/wordpress-1/wp-content/themes/expound-child/single-food.php",
+		"/Users/jefflundgren/Downloads/wordpress-1/wp-content/themes/expound-child/food.php",
+		"/Users/jefflundgren/Downloads/wordpress-1/wp-content/themes/expound-child/content-food.php",
+		"/Users/jefflundgren/Desktop/bymystuff.php",
+		"/Users/jefflundgren/Downloads/wordpress-1/wp-content/themes/expound-child/single-drink.php",
+		"/Users/jefflundgren/Desktop/cities.xml",
+		"/Users/jefflundgren/Downloads/wordpress-1/wp-content/themes/expound-child/style.css",
+		"/Users/jefflundgren/Downloads/Kernow 1.8/Kernow.bat",
+		"/Users/jefflundgren/Downloads/wordpress-1/wp-content/themes/expound-child/page.php",
+		"/Users/jefflundgren/Downloads/wordpress-1/wp-content/themes/expoundchild/expound.css",
+		"/Users/jefflundgren/Desktop/wordpress/wp-content/themes/twentytwelve/css/ie.css",
+		"/Users/jefflundgren/Desktop/course.xml",
+		"/Users/jefflundgren/Desktop/countries.xml",
+		"/Users/jefflundgren/Downloads/dbclass-script-files/Bookstore-noDTD.xml",
+		"/Users/jefflundgren/Desktop/BookstoreQ.xml",
+		"/Users/jefflundgren/Downloads/dbclass-script-files/BookstoreSchema.json",
+		"/Users/jefflundgren/Downloads/dbclass-script-files/Bookstore.json",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/jefflundgren/Downloads/dbclass-script-files/Bookstore-DTD.xml",
+		"/Users/jefflundgren/Desktop/wordpress/wp-config.php",
+		"/Users/jefflundgren/Desktop/webpages/JS-Arrays/index.html",
+		"/Users/jefflundgren/Desktop/webpages/JS-Strings/index.html",
+		"/Users/jefflundgren/Desktop/webpages/JSFound-Var-Basics/index.html",
+		"/Users/jefflundgren/Desktop/webpages/smellslikebakin 2/locations.html",
+		"/Users/jefflundgren/Desktop/webpages/smellslikebakin 2/index.html",
+		"/Users/jefflundgren/Desktop/webpages/smellslikebakin 2/css/style.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
